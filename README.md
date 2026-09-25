@@ -38,4 +38,4 @@ I'm an AI-First Software Engineer focused on building full-stack web application
 
 ### 📫 Connect With Me
 * **LinkedIn:** [Poorna Sai](https://www.linkedin.com/in/poornasai-dev)
-* **Email:** poornasaikorlakunta [at] gmail [dot] com
+* **Email:** [Send me an email](mailto:poornasaikorlakunta@gmail.com)
