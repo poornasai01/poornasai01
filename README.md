@@ -4,9 +4,16 @@ I'm an AI-First Software Engineer focused on building full-stack web application
 
 ---
 
+### 💼 Experience
+
+**Freelance AI Training Engineer (RLHF)**
+* Evaluated and debugged AI-generated Python and web framework code to improve Large Language Model (LLM) performance.
+* Conducted technical code audits for algorithm efficiency, security, and syntax accuracy.
+
+---
+
 ### 🚀 What I'm Up To
 * 🛠️ **Building:** Scalable full-stack web applications and automation tools using Python, FastAPI, and the MERN stack.
-* 🔍 **AI Evaluation & Quality:** Assessing and debugging AI-generated code for algorithmic accuracy, edge-case resilience, and security.
 * 🤖 **AI-First Engineering:** Actively integrating AI orchestration frameworks and autonomous agents into production workflows to build next-generation applications.
 
 ---
