@@ -1,4 +1,4 @@
-# Hi there, I'm Poorna Sai! 👋
+# Hi there, I'm Poorna Sai! 👋 ![Open to Work](https://img.shields.io/badge/Open_To-Work-2EA043?style=for-the-badge)
 
 I'm an AI-First Software Engineer focused on building full-stack web applications, architecting backend APIs, and integrating intelligent AI workflows. I leverage modern LLMs and agentic frameworks to accelerate development and design end-to-end products.
 
@@ -33,11 +33,6 @@ I'm an AI-First Software Engineer focused on building full-stack web application
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-![Open to Work](https://img.shields.io/badge/Open_To-Remote_AI_Internships-2EA043?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/Open_To-Work-2EA043?style=for-the-badge)
 
 ---
 
