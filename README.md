@@ -4,17 +4,17 @@ I'm an AI-First Software Engineer focused on building full-stack web application
 
 ---
 
+### 🚀 What I'm Up To
+* 🛠️ **Building:** Scalable full-stack web applications and automation tools using Python, FastAPI, and the MERN stack.
+* 🤖 **AI-First Engineering:** Actively integrating AI orchestration frameworks and autonomous agents into production workflows to build next-generation applications.
+
+---
+
 ### 💼 Experience
 
 **Freelance AI Training Engineer (RLHF)**
 * Evaluated and debugged AI-generated Python and web framework code to improve Large Language Model (LLM) performance.
 * Conducted technical code audits for algorithm efficiency, security, and syntax accuracy.
-
----
-
-### 🚀 What I'm Up To
-* 🛠️ **Building:** Scalable full-stack web applications and automation tools using Python, FastAPI, and the MERN stack.
-* 🤖 **AI-First Engineering:** Actively integrating AI orchestration frameworks and autonomous agents into production workflows to build next-generation applications.
 
 ---
 
@@ -36,18 +36,6 @@ I'm an AI-First Software Engineer focused on building full-stack web application
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poornasai01&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Poorna's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornasai01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect With Me
-* **LinkedIn:** [Add Your Profile Link]
-* **Email:** [Add Your Email Address]
+* **LinkedIn:** [Poorna Sai](https://www.linkedin.com/in/poornasai-dev)
+* **Email:** poornasaikorlakunta [at] gmail [dot] com
