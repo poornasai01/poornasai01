@@ -1,18 +1,46 @@
 # Hi there, I'm Poorna Sai! 👋
 
-I'm an AI-First Software Engineer focused on building scalable web applications, integrating AI workflows, and developing machine learning models. I enjoy taking ownership of features from end to end, whether I'm setting up backend APIs or training NLP models. 
+I'm an AI-First Software Engineer focused on building full-stack web applications, architecting backend APIs, and integrating intelligent AI workflows. I leverage modern LLMs and agentic frameworks to accelerate development and design end-to-end products.
+
+---
 
 ### 🚀 What I'm Up To
-*   **Building:** Full-stack applications and AI-driven tools using Python and the MERN stack.
-*   **Highlight:** Recently developed a Fake News Detector using a BERT machine learning model to classify and verify text sources.
-*   **Creating:** I also script, edit, and manage digital educational content across multiple channels (like Facts Cola), breaking down complex topics for large audiences.
-*   **Learning:** Continuously improving my conversational English fluency and diving deeper into Agentic AI workflows.
+* 🛠️ **Building:** Scalable full-stack web applications and automation tools using Python, FastAPI, and the MERN stack.
+* 🔍 **AI Evaluation & Quality:** Assessing and debugging AI-generated code for algorithmic accuracy, edge-case resilience, and security.
+* 🤖 **AI-First Engineering:** Actively integrating AI orchestration frameworks and autonomous agents into production workflows to build next-generation applications.
+
+---
 
 ### 💻 Tech Stack
-*   **Languages:** Python, JavaScript, C#, SQL
-*   **Frameworks & Libraries:** React, Node.js, Express, FastAPI, Flask
-*   **Tools & Databases:** MongoDB, Git, REST APIs
 
-### 📫 Let's Connect
-*   **LinkedIn:** [Your LinkedIn URL here]
-*   **Email:** [Your Email here]
+**Languages & Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frontend & Databases**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poornasai01&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Poorna's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornasai01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [Add Your Profile Link]
+* **Email:** [Add Your Email Address]
