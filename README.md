@@ -1,4 +1,5 @@
-# Hi there, I'm Poorna Sai! 👋 ![Open to Work](https://img.shields.io/badge/Open_To-Work-2EA043?style=for-the-badge)
+# Hi there, I'm Poorna Sai! 👋 
+![Open to Work](https://img.shields.io/badge/Open_To-Work-2EA043?style=flat&logo=github&logoColor=white)
 
 I'm an AI-First Software Engineer focused on building full-stack web applications, architecting backend APIs, and integrating intelligent AI workflows. I leverage modern LLMs and agentic frameworks to accelerate development and design end-to-end products.
 
