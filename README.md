@@ -36,6 +36,10 @@ I'm an AI-First Software Engineer focused on building full-stack web application
 
 ---
 
+![Open to Work](https://img.shields.io/badge/Open_To-Remote_AI_Internships-2EA043?style=for-the-badge)
+
+---
+
 ### 📫 Connect With Me
 * **LinkedIn:** [Poorna Sai](https://www.linkedin.com/in/poornasai-dev)
 * **Email:** [Send me an email](mailto:poornasaikorlakunta@gmail.com)
